@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img-a.udemycdn.com/course/240x135/831404_d4d8_2.jpg" width="240" height="135" alt="Dominando Banco de Dados com MySQL" />
+  <img src="https://img-c.udemycdn.com/course/240x135/831404_d4d8_2.jpg" width="240" height="135" alt="Dominando Banco de Dados com MySQL" />
 </p>
 
 <h3 align="center">
